@@ -17,4 +17,4 @@ def BKDRHash(s):
 
 if __name__ == '__main__':
 	cleartext = "This is a test string for use with the BKDRHash"
-	print BKDRHash(cleartext)
+	print (BKDRHash(cleartext))

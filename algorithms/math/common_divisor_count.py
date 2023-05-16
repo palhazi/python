@@ -6,7 +6,8 @@
 The function takes two integers as input and return the number of common divisors of
 that pair
 
-
+A függvény két egész számot vesz bemenetként, és visszaadja a 
+közös osztóik számát a pár számára.
 
 '''
 def cd_count(a,b):
